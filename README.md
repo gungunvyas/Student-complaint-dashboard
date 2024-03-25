@@ -9,7 +9,7 @@ This Power BI dashboard is designed to provide a clear overview of the top categ
 
 To gather data for this project, I initiated a survey among our fellow students using a Google Form. This form allowed students to submit their complaints freely, ensuring honest feedback. The responses were then collected and compiled into a dataset tailored for analysis in Power BI.
 
-The exact datset is not provided dur to security reasons of the student info.
+The exact dataset is not provided due to security reasons of the student info.
 
 ## Steps Taken to Create the Dashboard
 
